@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<plugin id="com.jien.appinstall" version="1.0.0" xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
+    <name>cordova-plugin-appinstall</name>
+    <js-module name="cordova-plugin-appinstall" src="www/cordova-plugin-appinstall.js">
+        <clobbers target="cordova.plugins.cordova-plugin-appinstall" />
+    </js-module>
+</plugin>

@@ -1,0 +1,22 @@
+{
+  "name": "cordova-plugin-appinstall",
+  "version": "1.0.0",
+  "description": "cordova plugin for app install",
+  "cordova": {
+    "id": "com.jien.appinstall",
+    "platforms": []
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jien/AppInstall.git"
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "liwenlong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jien/AppInstall/issues"
+  },
+  "homepage": "https://github.com/jien/AppInstall#readme"
+}
